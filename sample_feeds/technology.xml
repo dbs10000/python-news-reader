@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Sample: Technology</title><link>https://example.com/tech</link>
+<description>Made-up sample stories for trying out the news reader. None of these companies or events are real.</description>
+<item><title>Northwind Robotics opens its first fully automated warehouse in Leeds</title><link>https://example.com/tech/story-1</link><description>The fictional robotics firm says its new site can sort 40,000 parcels an hour with a team of twelve people overseeing the machines.</description><pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate></item>
+<item><title>Kestrel Labs releases an open-source tool for cleaning messy spreadsheets</title><link>https://example.com/tech/story-2</link><description>The free tool spots duplicate rows, mixed date formats and stray spaces, and explains each fix in plain English.</description><pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate></item>
+<item><title>Why every data team is talking about small, fast databases</title><link>https://example.com/tech/story-3</link><description>Engineers at three made-up start-ups explain how they replaced heavyweight systems with simpler tools that run on a laptop.</description><pubDate>Tue, 03 Nov 2026 02:00:00 +0000</pubDate></item>
+<item><title>Lumen Mobile&#x27;s new phone promises a week of battery life</title><link>https://example.com/tech/story-4</link><description>Reviewers of the imaginary handset say the claim holds up, as long as you don&#x27;t use the camera much.</description><pubDate>Mon, 02 Nov 2026 13:00:00 +0000</pubDate></item>
+<item><title>A beginner&#x27;s guide to reading RSS feeds in Python</title><link>https://example.com/tech/story-5</link><description>RSS has been around since the late 1990s and is still one of the simplest ways to follow many websites at once.</description><pubDate>Mon, 02 Nov 2026 03:00:00 +0000</pubDate></item>
+<item><title>Copperline Cloud cuts prices for students learning to code</title><link>https://example.com/tech/story-6</link><description>The fictional provider now offers free accounts to anyone enrolled on a recognised coding course.</description><pubDate>Sun, 01 Nov 2026 05:00:00 +0000</pubDate></item>
+</channel></rss>

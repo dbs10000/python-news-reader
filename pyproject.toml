@@ -1,0 +1,16 @@
+[project]
+name = "python-news-reader"
+version = "1.0.0"
+description = "A calm, one-screen news reader built in Python with NiceGUI: add any RSS feeds, filter, search and read full articles."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "feedparser",
+    "nicegui",
+    "trafilatura",
+    "rich",
+]
+
+[project.optional-dependencies]
+# Only needed to run as a desktop window (APP_MODE = "desktop")
+desktop = ["pywebview"]

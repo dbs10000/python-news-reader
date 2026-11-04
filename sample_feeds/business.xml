@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Sample: Business</title><link>https://example.com/business</link>
+<description>Made-up sample stories for trying out the news reader. None of these companies or events are real.</description>
+<item><title>Harbour &amp; Finch to hire 300 apprentices across its UK offices</title><link>https://example.com/business/story-1</link><description>The fictional bank says the roles, including data and software apprenticeships, need no previous experience.</description><pubDate>Tue, 03 Nov 2026 07:30:00 +0000</pubDate></item>
+<item><title>High street café chain Brew Lane reports its best quarter yet</title><link>https://example.com/business/story-2</link><description>The imaginary chain credits a loyalty app and a new range of cold drinks for a 14% rise in sales.</description><pubDate>Tue, 03 Nov 2026 04:00:00 +0000</pubDate></item>
+<item><title>Shipping delays ease as ports clear their backlogs</title><link>https://example.com/business/story-3</link><description>A made-up industry report says average waiting times at major ports fell for a third month in a row.</description><pubDate>Mon, 02 Nov 2026 22:00:00 +0000</pubDate></item>
+<item><title>Small businesses turn to four-day weeks to keep staff</title><link>https://example.com/business/story-4</link><description>Owners of five fictional companies share what changed, and what didn&#x27;t, after a year of shorter weeks.</description><pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate></item>
+<item><title>What a supply shortage actually is, explained simply</title><link>https://example.com/business/story-5</link><description>When demand for something grows faster than factories can make it, prices rise and waiting lists appear. Here&#x27;s how it happens.</description><pubDate>Sun, 01 Nov 2026 09:00:00 +0000</pubDate></item>
+</channel></rss>

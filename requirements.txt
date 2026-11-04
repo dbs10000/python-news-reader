@@ -1,0 +1,7 @@
+# For pip users. uv users can ignore this file and run: uv sync
+feedparser
+nicegui
+trafilatura
+rich
+# Optional: only needed for desktop mode (APP_MODE = "desktop")
+# pywebview

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Sample: Science</title><link>https://example.com/science</link>
+<description>Made-up sample stories for trying out the news reader. None of these companies or events are real.</description>
+<item><title>Astronomers spot a comet that will be visible without a telescope next spring</title><link>https://example.com/science/story-1</link><description>The made-up comet, nicknamed &#x27;Harper&#x27;s Lantern&#x27;, should be brightest in late April for viewers in the Northern Hemisphere.</description><pubDate>Tue, 03 Nov 2026 07:00:00 +0000</pubDate></item>
+<item><title>Ocean robots map a coral reef in record time</title><link>https://example.com/science/story-2</link><description>A fleet of small, solar-powered boats surveyed the imaginary reef in four days instead of the usual six weeks.</description><pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate></item>
+<item><title>New battery design uses salt instead of lithium</title><link>https://example.com/science/story-3</link><description>Researchers at the fictional Brookfield Institute say the cells are cheaper to make but heavier, making them better suited to homes than cars.</description><pubDate>Mon, 02 Nov 2026 07:00:00 +0000</pubDate></item>
+<item><title>Why your houseplants lean towards the window</title><link>https://example.com/science/story-4</link><description>A short explainer on phototropism: how plants grow towards light, and how to keep them growing straight.</description><pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate></item>
+<item><title>Citizen scientists log a million bird sightings in a single weekend</title><link>https://example.com/science/story-5</link><description>Volunteers across the country took part in the made-up survey using a free phone app.</description><pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate></item>
+</channel></rss>
